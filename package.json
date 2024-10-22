@@ -1,0 +1,24 @@
+{
+  "name": "node_and_mongodb_2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tavon Seesenpila",
+  "license": "ISC",
+  "description": "Node and MongoDB 2024",
+  "dependencies": {
+    "@prisma/client": "^5.21.1",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-fileupload": "^1.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.7",
+    "prisma": "^5.21.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
